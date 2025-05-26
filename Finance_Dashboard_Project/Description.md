@@ -7,8 +7,7 @@
 
 ## 🖼️ Preview
 
-*(Insert image or screenshot of the dashboard below)* <br>
-📌 *\[Insert image here]*
+![Image](https://github.com/user-attachments/assets/4b5767b1-97b8-4e25-a13f-138837ffa815)
 
 ---
 
