@@ -27,8 +27,8 @@ Welcome to my project portfolio! Here, you'll find details and direct links to s
 
 ## 📩 Contact
 Feel free to reach out if you have any questions or want to collaborate!
-Name: Akanksha Bisht
-E-mail: akankshabisht145@gmail.com
-Contact no.: 8864862270
+- **Name: Akanksha Bisht**
+- **E-mail: akankshabisht145@gmail.com**
+- **Contact no.: 8864862270**
 ---
 
