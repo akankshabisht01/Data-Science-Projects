@@ -21,9 +21,9 @@ Welcome to my project portfolio! Here, you'll find details and direct links to s
 
 ### 4. 💰 Financial Dashboard – Excel Based
 
--**Description:** An interactive Excel dashboard to analyze key financial metrics such as Sales, Profit, COGS, Discounts, and Units Sold. Features include PivotTables, slicers, charts, data validation, and What-If Analysis tools. Also includes a macro to export the dashboard as a PDF report.
--**Technologies Used:** Microsoft Excel,PivotTables & PivotCharts,Slicers,VBA Macros
--**Project Link** [Financial Dashboard – Excel](https://github.com/akankshabisht01/Data-Science-Projects/tree/main/Finance_Dashboard_Project)
+- **Description:** An interactive Excel dashboard to analyze key financial metrics such as Sales, Profit, COGS, Discounts, and Units Sold. Features include PivotTables, slicers, charts, data validation, and What-If Analysis tools. Also includes a macro to export the dashboard as a PDF report.
+- **Technologies Used:** Microsoft Excel,PivotTables & PivotCharts,Slicers,VBA Macros
+- **Project Link** [Financial Dashboard – Excel](https://github.com/akankshabisht01/Data-Science-Projects/tree/main/Finance_Dashboard_Project)
 
 ## 📩 Contact
 Feel free to reach out if you have any questions or want to collaborate!
